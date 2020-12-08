@@ -1,0 +1,44 @@
+h1 { 
+    color: #18677F;
+}
+
+
+p {
+    color: #57800B;
+}
+ 
+li {
+    color: maroon;
+}
+    
+h2 {
+    color: purple;
+}
+
+body {
+    background-color: #C8A2C8;
+}
+    
+h1 {
+    font-family: 'Concert One', cursive;
+}
+
+h2 {
+    font-family: 'Henny Penny', cursive;
+}
+
+p {
+    font-family: 'Syne Mono', monospace;
+}
+
+li {
+    font-family: 'Ruge Boogie', cursive;
+}
+    
+img {
+    width:420px;
+}
+
+img {
+    border:20px solid #021a40;
+}
